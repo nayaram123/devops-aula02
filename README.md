@@ -1,5 +1,4 @@
 # devops-aula02
 # Caio Castro
-# Bruna Marquezine
+# Bruno Gagliasso
 # Juliana Paes
-# Lili Collins
